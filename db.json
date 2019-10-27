@@ -1,14 +1,82 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+[
+ {
+   "DateUTC": "8/1/2019",
+   "LabelMetadata": [
+      {
+         "LabelName": "confidential",
+         "OnDashboardCount": 500,
+         "OnReportCount": 600,
+         "OnDatasetCount": 800,
+         "OnDataflowCount": 900
+      },
+      {
+         "LabelName": "General",
+         "OnDashboardCount": 0,
+         "OnReportCount": 2,
+         "OnDatasetCount": 200,
+         "OnDataflowCount": 700
+      },
+      {
+         "LabelName": "Highly Confidential",
+         "OnDashboardCount": 200,
+         "OnReportCount": 400,
+         "OnDatasetCount": 500,
+         "OnDataflowCount": 600
+      },
+      {
+         "LabelName": "Non-Business",
+         "OnDashboardCount": 100,
+         "OnReportCount": 300,
+         "OnDatasetCount": 500,
+         "OnDataflowCount": 444
+      },
+      {
+         "LabelName": "Public",
+         "OnDashboardCount": 111,
+         "OnReportCount": 542,
+         "OnDatasetCount": 398,
+         "OnDataflowCount": 253
+      }
+   ]
+},
+ {
+   "DateUTC": "8/2/2019",
+   "LabelMetadata": [
+      {
+         "LabelName": "confidential",
+         "OnDashboardCount": 501,
+         "OnReportCount": 608,
+         "OnDatasetCount": 805,
+         "OnDataflowCount": 1000
+      },
+      {
+         "LabelName": "General",
+         "OnDashboardCount": 100,
+         "OnReportCount": 4,
+         "OnDatasetCount": 300,
+         "OnDataflowCount": 800
+      },
+      {
+         "LabelName": "Highly Confidential",
+         "OnDashboardCount": 300,
+         "OnReportCount": 500,
+         "OnDatasetCount": 600,
+         "OnDataflowCount": 700
+      },
+      {
+         "LabelName": "Non-Business",
+         "OnDashboardCount": 200,
+         "OnReportCount": 400,
+         "OnDatasetCount": 555,
+         "OnDataflowCount": 555
+      },
+      {
+         "LabelName": "Public",
+         "OnDashboardCount": 213,
+         "OnReportCount": 666,
+         "OnDatasetCount": 444,
+         "OnDataflowCount": 333
+      }
+   ]
 }
+]
